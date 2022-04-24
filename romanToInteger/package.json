@@ -1,0 +1,14 @@
+{
+  "name": "romantointeger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "romanToInteger.easy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

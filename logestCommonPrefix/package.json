@@ -1,0 +1,14 @@
+{
+  "name": "logestcommonprefix",
+  "version": "1.0.0",
+  "main": "logestCommonPrefix.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
